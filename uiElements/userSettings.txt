@@ -1,0 +1,6 @@
+labels 0
+crowd 1
+accuracy 0
+pedestrian_color 6
+crowd_color 4
+out_dir C:/Users/DC/Desktop/BeamEye_SPACE_Project/BeamEye/save_SPACE_video
