@@ -151,4 +151,10 @@ This project is protected under the [SELECT-A-LICENSE](https://choosealicense.co
 [**Return**](#Top)
 
 ---
+[![GitHub contributors](https://img.shields.io/github/contributors/alshubati99/BeamEye.svg?color=blue)](https://github.com/alshubati99/BeamEye/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/alshubati99/BeamEye.svg?color=blue)](https://GitHub.com/alshubati99/BeamEye/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/alshubati99/BeamEye.svg?color=blue)](https://GitHub.com/alshubati99/BeamEye/pull/)
 
+[![GitHub watchers](https://img.shields.io/github/watchers/alshubati99/BeamEye.svg?style=social&label=Watch&maxAge=2592000&color=blue)](https://GitHub.com/alshubati99/BeamEye/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/alshubati99/BeamEye.svg?style=social&label=Fork&maxAge=2592000&color=blue)](https://GitHub.com/alshubati99/BeamEye/network/)
+[![GitHub stars](https://img.shields.io/github/stars/alshubati99/BeamEye.svg?style=social&label=Star&maxAge=2592000&color=blue)](https://GitHub.com/alshubati99/BeamEye/stargazers/)
