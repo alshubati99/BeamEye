@@ -15,13 +15,18 @@
 
 ## 📍 Overview
 
-HTTPStatus Exception: 401
+Abstract
 
 ---
 
 ## 📦 Features
 
-HTTPStatus Exception: 401
+- Pedestrian Detection
+- Crowd Detection
+- TimeStamp of Max Detection
+- Number of Detections/sec
+- Color Customization
+  
 
 ---
 
