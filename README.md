@@ -15,7 +15,14 @@
 
 ## 📍 Overview
 
-Abstract
+BeamEye is a cutting-edge application designed to enhance pedestrian safety in growing urban environments. This project is pivotal in monitoring pedestrian flow, offering valuable insights to traffic authorities for understanding pedestrian behaviors and improving security measures. 
+
+At the heart of BeamEye is the integration of TensorFlow's SSD MobileNet, a pre-trained object detection model, with a user-friendly Tkinter interface. This combination not only brings smart, AI-driven capabilities to the fore but also ensures ease of use, particularly in Windows environments. 
+
+BeamEye's inception was motivated by the need to bolster pedestrian security and aid in traffic management. The application is tailored for security officers, offering a straightforward, accessible tool for detecting and tracking pedestrians. Beyond its immediate utility for security personnel, BeamEye has the potential to assist urban city planners in analyzing and managing pedestrian movement more effectively.
+
+The distinctiveness of BeamEye lies in its amalgamation of a sophisticated AI model with an intuitive user interface. This enables users to not only monitor live pedestrian traffic but also analyze prerecorded videos. While there have been numerous pedestrian detection systems developed, BeamEye sets itself apart by focusing on both the accuracy of detection algorithms and the accessibility of the application across various platforms, especially catering to non-live detection scenarios.
+
 
 ---
 
@@ -140,13 +147,13 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 ## 📄 License
 
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+This project is protected under the [MIT](https://github.com/alshubati99/BeamEye/blob/main/LICENSE) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
 
 ---
 
 ## 👏 Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
+- Big Love to all of those supported us to finish this project. 
 
 [**Return**](#Top)
 
